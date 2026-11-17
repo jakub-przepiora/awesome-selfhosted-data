@@ -1,0 +1,12 @@
+name: OpenMES
+website_url: https://getopenmes.com
+source_code_url: https://github.com/Mes-Open/OpenMes
+description: Manufacturing Execution System (MES) for small and mid-sized manufacturers - work orders, production tracking, shop-floor operator workflows, OEE, traceability and machine connectivity (Modbus TCP, OPC UA).
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+  - Docker
+tags:
+  - Manufacturing
+demo_url: https://demo.getopenmes.com/register
